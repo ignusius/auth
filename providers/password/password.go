@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/qor/auth"
-	"github.com/qor/auth/auth_identity"
-	"github.com/qor/auth/claims"
-	"github.com/qor/auth/providers/password/encryptor"
-	"github.com/qor/auth/providers/password/encryptor/bcrypt_encryptor"
+	"github.com/ignusius/auth"
+	"github.com/ignusius/auth/auth_identity"
+	"github.com/ignusius/auth/claims"
+	"github.com/ignusius/auth/providers/password/encryptor"
+	"github.com/ignusius/auth/providers/password/encryptor/bcrypt_encryptor"
 	"github.com/qor/session"
 )
 

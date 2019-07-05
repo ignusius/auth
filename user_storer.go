@@ -5,8 +5,8 @@ import (
 	"reflect"
 
 	"github.com/jinzhu/copier"
-	"github.com/qor/auth/auth_identity"
-	"github.com/qor/auth/claims"
+	"github.com/ignusius/auth/auth_identity"
+	"github.com/ignusius/auth/claims"
 	"github.com/qor/qor/utils"
 )
 
